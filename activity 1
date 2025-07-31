@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+    <body style="background-color: aquamarine;">
+        <header style="background-color: rgb(22, 229, 229);">
+        <h1>
+            Mount caramel book club
+        </h1>
+        </header>
+        <ul>
+          <li>home</li>
+        <li><a>online recources</a></li>
+        <li><a>reading groups</a></li>
+        <li><a>contact us</a></li>
+        </ul>
+        <h2>
+            welcome to our caramel book club
+        </h2
+        <p>The mount caramel book club is an online of book readers in mount caramel school.</p>
+        <h3>Meet our teachers</h3>
+        <h4>Ms Emma</h4>
+        <style>
+            p{
+                background-color: rgb(22, 229, 229);
+            }
+        <p> teaches elementery school kids.</p>
+        </style>
+        <h4>Ms Caroline</h4>
+        <p>she teaches secondary and high school kids.She has masters of arts</p>
+        </style>
+        <h2>Book review</h2>
+        <h3>alice in the wonder land</h3>
+        <p><strong>Amit:</strong><q>i love reading this.Amust read for every one</q></p>
+        
+        <p><strong>harry:</strong><q>so interesting i am enjoyig it.</q></p>
+        <b>woman in the window </b> by <em> AJ. finn<em><br>
+            <b>stand by me</b> by <em>S.D Robertson</em><br>
+            <b>one in the million</b> by <em> lindsy kelk</em><br>
+            <h2>opening time</h2>
+            <table>
+            <tr><th>monday</th>
+            <td>11am till 3pm</td></tr>
+            <th>tuesday</th>
+            <td>11pm till 3pm</td>
+        </tr>
+        <tr>
+            <th>wednesday</th>
+            <td>11pm till 3pm</td>
+        </tr>
+        <tr>
+            <th>thursday</th>
+            <td>11pm till 3pm</td>
+        </tr>
+        <tr>
+            <th>friday</th>
+            <td>11pm till 1pm</td>
+        </tr>
+        <tr>
+            <th>saturday</th>
+            <td>11am till 1pm</td>
+        </tr>
+        <tr>
+            <th>sunday</th>
+            <td>closed</td>
+        </table>
+            <p>contact us</p>
+            <p>phone no:03336417662</p>
+            <adress>36th main,palm road,bahawalpur</adress>
+            </em>  
+        </body>
+       
+            
+        
+
+        
+
+             
